@@ -10,7 +10,7 @@ public class HelloWorld
     
     System.out.print("Olaaah, Im nicole ");
     System.out.print("Olaaah, No! ");
-    System.out.print("Olaaah, Yes! ");
+    System.out.print("Olaaah, Ola! ");
     
   }
 
